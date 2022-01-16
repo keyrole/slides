@@ -1,6 +1,2 @@
-## Slides
-
-This repo contains materials used in Substrate Course.
-
-[Course outline](./outline.md)
-
+## Substrate进阶课程 四期4班66号 易佳男（微信：66-andy-上海）
+见代码
